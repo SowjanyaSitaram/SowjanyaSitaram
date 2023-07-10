@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SowjanyaSitaram
-- 👀 I’m interested in coding especially Front end developemnt
-- 🌱 I’m currently learning MEAN stack
+- 👀 I’m interested in coding, especially UI development Reactjs node js
+- 🌱 I’m currently working with the MERN stack
 - 💞️ I’m looking to collaborate on React Projects
 - 📫 How to reach me +18645930607
 
